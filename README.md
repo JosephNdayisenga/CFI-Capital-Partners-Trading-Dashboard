@@ -1,5 +1,5 @@
 # CFI-Capital-Partners-Trading-Dashboard
 
-This trading dashboard presents advanced visuals in Tableau such as candlestick charts, Bollinger bands, market cap tree maps, growth plots, and much more visuals.
+A dynamic visual trading dashboard, featuring elements like candlestick charts, Bollinger bands, growth plots, and tree maps of market capitalization.
 
 Here is link to the dashboard on tableau public: https://public.tableau.com/app/profile/joseph.ndayisenga/viz/CFICapitalPartnersTradingDashboard_16733625039480/DowJonesTechnicalAnalysis
